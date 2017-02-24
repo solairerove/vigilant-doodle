@@ -1,2 +1,2 @@
 # vigilant-doodle
-electron app
+electron example app
