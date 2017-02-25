@@ -35,3 +35,16 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# User-specific stuff:
+.idea
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
