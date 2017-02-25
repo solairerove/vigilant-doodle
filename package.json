@@ -1,0 +1,19 @@
+{
+  "name": "vigilant-doodle",
+  "version": "1.0.0",
+  "description": "electron example app",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solairerove/vigilant-doodle.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "solairerove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solairerove/vigilant-doodle/issues"
+  },
+  "homepage": "https://github.com/solairerove/vigilant-doodle#readme"
+}
