@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "electron example app",
   "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/solairerove/vigilant-doodle.git"
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/solairerove/vigilant-doodle/issues"
   },
-  "homepage": "https://github.com/solairerove/vigilant-doodle#readme"
+  "homepage": "https://github.com/solairerove/vigilant-doodle#readme",
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
 }
